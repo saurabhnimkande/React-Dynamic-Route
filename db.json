@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id":"1",
+      "name":"Noise ColorFit Qube SpO2 Charcoal Black Smartwatch  (Black Strap, Regular)",
+      "price":"₹1,999",
+      "image":"https://rukminim1.flixcart.com/image/312/312/ku1k4280/smartwatch/t/i/a/android-ios-wrb-sw-colorfitqubeoxy-std-blk-blk-noise-no-original-imag79y4ar4hjbgb.jpeg?q=70"
+    },
+    {
+      "id":"2",
+      "name":"DIZO Watch 2 (by realme TechLife)  (Blue Strap, Free Size)",
+      "price":"₹2,499",
+      "image":"https://rukminim1.flixcart.com/image/312/312/kvwpt3k0/smartwatch/3/1/8/1-69-android-ios-dw2118-dizo-no-original-imag8znetbfvnxzp.jpeg?q=70"
+    },
+    {
+      "id":"3",
+      "name":"Noise ColorFit Brio Smartwatch  (Black Strap, Regular)",
+      "price":"₹2,999",
+      "image":"https://rukminim1.flixcart.com/image/312/312/ku04o7k0/smartwatch/d/z/u/android-ios-wrb-sw-colorfitbrio-std-blk-blk-noise-no-original-imag77xp9rd3rqgm.jpeg?q=70"
+    },
+    {
+      "id":"4",
+      "name":"DIZO Watch 2 (by realme TechLife)",
+      "price":"₹2,499",
+      "image":"https://rukminim1.flixcart.com/image/312/312/kt39jm80/smartwatch/c/j/d/android-ios-dw2118-dizo-no-original-imag6gh9f6uvpqeq.jpeg?q=70"
+    },
+    {
+      "id":"5",
+      "name":"boAt Storm Smartwatch  (Black Strap, Regular)",
+      "price":"₹2,699",
+      "image":"https://rukminim1.flixcart.com/image/312/312/kkprmvk0/smartwatch/v/j/n/storm-android-ios-boat-original-imafzzu29tguvtqg.jpeg?q=70"
+    },
+    {
+      "id":"6",
+      "name":"Realme Watch 2 Pro  (Black Strap, Free Size)",
+      "price":"₹4,999",
+      "image":"https://rukminim1.flixcart.com/image/312/312/kt39jm80/smartwatch/l/c/c/android-ios-watch-2-pro-realme-no-original-imag6gfpmstpzg8h.jpeg?q=70"
+    }
+  ]
+  
+}
